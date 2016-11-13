@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<ArrayOfOneQuestionAndAnswers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <OneQuestionAndAnswers Question="Как называется место на берегу, где обитают тюлени?" Answer1="Лежбище" Answer2="Стойбище" Answer3="Пастбище" Answer4="Гульбище">
+    <CorrectAnswer>Лежбище</CorrectAnswer>
+  </OneQuestionAndAnswers>
+  <OneQuestionAndAnswers Question="Как мировая пресса называла премьер-министра Великобритании Маргарет Тэтчер?" Answer1="Железная леди" Answer2="Стальная леди" Answer3="Оловянный солдатик" Answer4="Крепкий орешек">
+    <CorrectAnswer>Железная леди</CorrectAnswer>
+  </OneQuestionAndAnswers>
+  <OneQuestionAndAnswers Question="Какой из этих городов южнее остальных?" Answer1="Каир" Answer2="Токио" Answer3="Мадрид" Answer4="Сан-Франциско">
+    <CorrectAnswer>Каир</CorrectAnswer>
+  </OneQuestionAndAnswers>
+  <OneQuestionAndAnswers Question="Через какой город мира проходит нулевой меридиан?" Answer1="Гринвич" Answer2="Гринсборо" Answer3="Глазго" Answer4="Гронинген">
+    <CorrectAnswer>Гринвич</CorrectAnswer>
+  </OneQuestionAndAnswers>
+  <OneQuestionAndAnswers Question="Какая птица является символом Новой Зеландии?" Answer1="Киви" Answer2="Жако" Answer3="Эму" Answer4="Казуар">
+    <CorrectAnswer>Киви</CorrectAnswer>
+  </OneQuestionAndAnswers>
+  <OneQuestionAndAnswers Question="Какого короля англичане прозвали &quot;Львиное сердце&quot;?" Answer1="Ричард I" Answer2="Вильгельм I" Answer3="Георг I" Answer4="Генрих I">
+    <CorrectAnswer>Ричард I</CorrectAnswer>
+  </OneQuestionAndAnswers>
+  <OneQuestionAndAnswers Question="Как в народе называются финансовые институты, обещающие вкладчикам золотые горы?" Answer1="Пирамиды" Answer2="Гробницы" Answer3="Захоронения" Answer4="Сфинксы">
+    <CorrectAnswer>Пирамиды</CorrectAnswer>
+  </OneQuestionAndAnswers>
+  <OneQuestionAndAnswers Question="В каком городе родился Вольфганг Амадей Моцарт?" Answer1="Зальцбург " Answer2="Веймар" Answer3="Прага" Answer4="Вена">
+    <CorrectAnswer>Зальцбург </CorrectAnswer>
+  </OneQuestionAndAnswers>
+  <OneQuestionAndAnswers Question="Какую реку Юлий Цезарь перешел со словами &quot;Жребий брошен&quot;?" Answer1="Рубикон" Answer2="Припять" Answer3="Нил" Answer4="Евфрат">
+    <CorrectAnswer>Рубикон</CorrectAnswer>
+  </OneQuestionAndAnswers>
+  <OneQuestionAndAnswers Question="Как называется искусство аранжировки цветов?" Answer1="Икебана" Answer2="Суши" Answer3="Кэндо" Answer4="Харакири">
+    <CorrectAnswer>Икебана</CorrectAnswer>
+  </OneQuestionAndAnswers>
+  <OneQuestionAndAnswers Question="Какая страна является мировым лидером по производству кофе?" Answer1="Бразилия" Answer2="Венесуэла" Answer3="Мексика" Answer4="Аргентина">
+    <CorrectAnswer>Бразилия</CorrectAnswer>
+  </OneQuestionAndAnswers>
+  <OneQuestionAndAnswers Question="Что труднее всего дается не трезвому человеку?" Answer1="Вязать лыко" Answer2="Трепать нервы" Answer3="Бить баклуши" Answer4="Витать в облаках">
+    <CorrectAnswer>Вязать лыко</CorrectAnswer>
+  </OneQuestionAndAnswers>
+  <OneQuestionAndAnswers Question="Как называют японских мафиози?" Answer1="Якудза" Answer2="Джакузи" Answer3="Камикадзе" Answer4="Коза Ностра">
+    <CorrectAnswer>Якудза</CorrectAnswer>
+  </OneQuestionAndAnswers>
+  <OneQuestionAndAnswers Question="Участник какого из перечисленных спортивных состязаний экипирован винтовкой?" Answer1="Биатлон" Answer2="Бейсбол" Answer3="Бадминтон" Answer4="Бобслей">
+    <CorrectAnswer>Биатлон</CorrectAnswer>
+  </OneQuestionAndAnswers>
+  <OneQuestionAndAnswers Question="В каком канадском городе находится самая высокая в мире телебашня?" Answer1="Торонто" Answer2="Оттава" Answer3="Ванкувер" Answer4="Монреаль">
+    <CorrectAnswer>Торонто</CorrectAnswer>
+  </OneQuestionAndAnswers>
+  <OneQuestionAndAnswers Question="Какой из этих романов написал не Хемингуэй?" Answer1="&quot;Триумфальная арка&quot;" Answer2="&quot;Фиеста&quot;" Answer3="&quot;По ком звонит колокол&quot;" Answer4="&quot;Острова в океане&quot;">
+    <CorrectAnswer>"Триумфальная арка"</CorrectAnswer>
+  </OneQuestionAndAnswers>
+  <OneQuestionAndAnswers Question="В каком виде спорта прославился Евгений Кафельников?" Answer1="Теннис" Answer2="Бокс" Answer3="Метание ядра" Answer4="Охота на лис">
+    <CorrectAnswer>Теннис</CorrectAnswer>
+  </OneQuestionAndAnswers>
+  <OneQuestionAndAnswers Question="Как называется пара, присутствующая на церемонии бракосочетания вместе с молодыми?" Answer1="Свидетели" Answer2="Соучастники" Answer3="Запасные" Answer4="Защитники">
+    <CorrectAnswer>Свидетели</CorrectAnswer>
+  </OneQuestionAndAnswers>
+  <OneQuestionAndAnswers Question="Как звали невесту Эдмона Дантеса, будущего графа Монте-Кристо?" Answer1="Мерседес" Answer2="Тойота" Answer3="Хонда" Answer4="Лада">
+    <CorrectAnswer>Мерседес</CorrectAnswer>
+  </OneQuestionAndAnswers>
+  <OneQuestionAndAnswers Question="Какой цвет получается при смешении синего и красного?" Answer1="Фиолетовый" Answer2="Коричневый" Answer3="Зеленый" Answer4="Голубой">
+    <CorrectAnswer>Фиолетовый</CorrectAnswer>
+  </OneQuestionAndAnswers>
+  <OneQuestionAndAnswers Question="Какая компания в Италии выпускает наибольшее количество автомобилей?" Answer1="Фиат" Answer2="Феррари" Answer3="Ламборгини" Answer4="Альфа Ромео">
+    <CorrectAnswer>Фиат</CorrectAnswer>
+  </OneQuestionAndAnswers>
+  <OneQuestionAndAnswers Question="Кто из древних философов, по преданию, жил в бочке?" Answer1="Диоген" Answer2="Демокрит" Answer3="Платон" Answer4="Сократ">
+    <CorrectAnswer>Диоген</CorrectAnswer>
+  </OneQuestionAndAnswers>
+  <OneQuestionAndAnswers Question="Каким из этих природных явлений А.Островский назвал свою пьесу?" Answer1="Гроза" Answer2="Снегопад" Answer3="Шаровая молния" Answer4="Гололед">
+    <CorrectAnswer>Гроза</CorrectAnswer>
+  </OneQuestionAndAnswers>
+  <OneQuestionAndAnswers Question="Какой туман кажется В.Добрынину похожим на обман в одной из его песен?" Answer1="Синий" Answer2="Утренний" Answer3="Сиреневый" Answer4="Желтый">
+    <CorrectAnswer>Синий</CorrectAnswer>
+  </OneQuestionAndAnswers>
+  <OneQuestionAndAnswers Question="Кому принадлежат строки - пророчества: &quot;Настанет год, России черный год, Когда царей корона упадет...&quot;?" Answer1="Лермонтов" Answer2="Пушкин" Answer3="Нострадамус" Answer4="Некрасов">
+    <CorrectAnswer>Лермонтов</CorrectAnswer>
+  </OneQuestionAndAnswers>
+  <OneQuestionAndAnswers Question="Как называется маскировочная окраска военной техники и обмундирования?" Answer1="Камуфляж" Answer2="Макияж" Answer3="Хаки" Answer4="Камуфлет">
+    <CorrectAnswer>Камуфляж</CorrectAnswer>
+  </OneQuestionAndAnswers>
+  <OneQuestionAndAnswers Question="Какой материк омывается всеми четырьмя океанами?" Answer1="Евразия" Answer2="Северная Америка" Answer3="Австралия" Answer4="Южная Америка">
+    <CorrectAnswer>Евразия</CorrectAnswer>
+  </OneQuestionAndAnswers>
+  <OneQuestionAndAnswers Question="Какие машины предпочитал угонять Юрий Деточкин?" Answer1="Волга" Answer2="Победа" Answer3="Иномарки" Answer4="Жигули">
+    <CorrectAnswer>Волга</CorrectAnswer>
+  </OneQuestionAndAnswers>
+  <OneQuestionAndAnswers Question="сколько будет 2+2" Answer1="4" Answer2="5" Answer3="3" Answer4="8">
+    <CorrectAnswer>4</CorrectAnswer>
+  </OneQuestionAndAnswers>
+  <OneQuestionAndAnswers Question="" Answer1="" Answer2="" Answer3="" Answer4="" />
+</ArrayOfOneQuestionAndAnswers>
